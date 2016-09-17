@@ -3,6 +3,7 @@
   
 }
 .item{
+    display:flex;
     width: 50px;
     -webkit-box-flex: 1;
     -moz-box-flex: 1;
