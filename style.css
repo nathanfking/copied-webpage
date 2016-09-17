@@ -1,0 +1,26 @@
+  /**{outline:1px solid red;}*/
+.one{
+  min-height:400px;
+background: url(http://www.imore.com/sites/imore.com/files/styles/large/public/topic_images/2015/apple-pencil-topic.png?itok=ZGM5xkNv) no-repeat;
+background-color: #F88816;
+background-size: 600px;
+background-position: right;
+}
+.card{
+display: inline-block;
+vertical-align: middle;
+text-align:left;
+max-width:250;
+color:white;
+text-shadow: 2px 2px #444;
+margin-top:50;
+
+}
+.btn{
+margin-top:10;
+font-size:8px;
+width:100;
+height:20;
+font-family:
+text-shadow: 2px 2px #444;
+}
