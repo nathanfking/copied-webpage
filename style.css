@@ -15,7 +15,9 @@ color:white;
 text-shadow: 2px 2px #444;
 margin-top:50;
 height:400;
-
+}
+.row{
+  height:400px;
 }
 .btn{
 margin-top:10;
