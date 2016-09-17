@@ -1,18 +1,20 @@
 .flex-container{
   display: flex;
-  
-}
-.item{
-    display:flex;
-    width: 50px;
-    -webkit-box-flex: 1;
-    -moz-box-flex: 1;
-    box-flex: 1;
-    -webkit-flex: 1 1 auto;
-    flex: 1 1 auto; 
+   -webkit-box-orient: horizontal; 
+    -moz-box-orient: horizontal;
+    box-orient: horizontal;
+    flex-direction: row;
 
-    padding: 10px;
-    margin: 10px;
-width: 100%;
-    height: auto;
+    -webkit-box-pack: center;
+    -moz-box-pack: center;
+    box-pack: center;
+    justify-content: center;
+
+    -webkit-box-align: center;
+    -moz-box-align: center;
+    box-align: center;  
+    align-items: center;
 }
+
+.item{
+max-width:50%;}
