@@ -1,5 +1,12 @@
 .flex-container{
+  background-color:#469AE0;
   display: flex;
  height: 400px;
  justify-content: center;
+}
+.item{
+    max-width:200px;
+    min-height:300px;
+    
+
 }
