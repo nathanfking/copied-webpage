@@ -19,6 +19,9 @@ height:400;
 .row{
   height:400px;
 }
+p2{
+  max-width: 100px;
+}
 .btn{
 margin-top:10;
 font-size:8px;
