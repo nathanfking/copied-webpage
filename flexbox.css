@@ -1,21 +1,5 @@
 .flex-container{
   display: flex;
-   -webkit-box-orient: horizontal; 
-    -moz-box-orient: horizontal;
-    box-orient: horizontal;
-    flex-direction: row;
-
-    -webkit-box-pack: center;
-    -moz-box-pack: center;
-    box-pack: center;
-    justify-content: center;
-
-    -webkit-box-align: center;
-    -moz-box-align: center;
-    box-align: center;  
-    align-items: center;
-}
-
-.item{
-transform: scale(0.5);
+ height: 150px;
+ justify-content: center;
 }
