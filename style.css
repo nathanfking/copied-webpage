@@ -1,10 +1,14 @@
   *{outline:1px solid red;}
 .one{
-  min-height:400px;
+height:400px;
 background: url(http://www.imore.com/sites/imore.com/files/styles/large/public/topic_images/2015/apple-pencil-topic.png?itok=ZGM5xkNv) no-repeat;
 background-color: #F88816;
 background-size: 600px;
 background-position: right;
+}
+.two{
+background-color: #469AE0;
+  
 }
 .card{
 display: inline-block;
@@ -14,19 +18,22 @@ max-width:250;
 color:white;
 text-shadow: 2px 2px #444;
 margin-top:50;
-height:400;
-}
-.row{
-  height:400px;
-}
-p2{
-  max-width: 50em;
+margin-bottom:0px;
+
 }
 .btn{
 margin-top:10;
 font-size:8px;
 width:100;
 height:20;
-font-family:
-text-shadow: 2px 2px #444;
+}
+.two{
+  background-color:#469AE0;
+  height: 300px;
+  
+}
+.col-lg-2{
+  height:300;
+  
+
 }
