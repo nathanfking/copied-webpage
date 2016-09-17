@@ -17,4 +17,5 @@
 }
 
 .item{
-max-width:20%;}
+transform: scale(0.5);
+}
