@@ -41,3 +41,7 @@ height:20;
 .el{
   font-size:40px;
 }
+.container  .img-responsive {
+    display: block;
+    max-block-size: 200px;
+    max-height: auto;
